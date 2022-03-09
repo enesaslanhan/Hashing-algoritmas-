@@ -1,0 +1,5 @@
+C:\Users\Enes\source\repos\Hashing\Hashing\obj\Debug\netcoreapp3.1\Hashing.csproj.AssemblyReference.cache
+C:\Users\Enes\source\repos\Hashing\Hashing\obj\Debug\netcoreapp3.1\Hashing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\Hashing\Hashing\obj\Debug\netcoreapp3.1\Hashing.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Hashing\Hashing\obj\Debug\netcoreapp3.1\Hashing.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Hashing\Hashing\obj\Debug\netcoreapp3.1\Hashing.csproj.CoreCompileInputs.cache
